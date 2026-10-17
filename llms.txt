@@ -1,0 +1,10 @@
+# Vexa Studio
+
+> Web design studio in South Africa building fast, search-ready business websites and event countdown pages. Websites start from R1 500.
+
+## Pages
+- [Home](https://vexastudio.co.za/): services, process, included features and pricing
+- [Pricing](https://vexastudio.co.za/#pricing): Starter from R1 500, Business by quote
+
+## Contact
+- Email: karabotshivhase2@gmail.com
